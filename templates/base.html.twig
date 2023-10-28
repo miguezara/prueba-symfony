@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}Welcome!{% endblock %}</title>
+        {% block stylesheets %}
+           {# {{ encore_entry_link_tags('app') }} #}
+        {% endblock %}
+
+        {% block javascripts %}
+          {#  <script src="{{asset('build/main.js')}}" />#}
+            {{ encore_entry_script_tags('main') }}
+        {% endblock %}
+    </head>
+    <body>
+        <div id="app">
+            <App/>
+        </div>
+    </body>
+</html>

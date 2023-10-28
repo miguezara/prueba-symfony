@@ -1,0 +1,6 @@
+{
+  "build/main.js": "http://localhost:8080/build/main.js",
+  "build/runtime.js": "http://localhost:8080/build/runtime.js",
+  "build/vendors-node_modules_bootstrap-vue_esm_index_js-node_modules_bootstrap-vue_dist_bootstrap-vue-2e4ff1.css": "http://localhost:8080/build/vendors-node_modules_bootstrap-vue_esm_index_js-node_modules_bootstrap-vue_dist_bootstrap-vue-2e4ff1.css",
+  "build/vendors-node_modules_bootstrap-vue_esm_index_js-node_modules_bootstrap-vue_dist_bootstrap-vue-2e4ff1.js": "http://localhost:8080/build/vendors-node_modules_bootstrap-vue_esm_index_js-node_modules_bootstrap-vue_dist_bootstrap-vue-2e4ff1.js"
+}
